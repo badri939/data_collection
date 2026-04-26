@@ -6,3 +6,10 @@ __pycache__/
 
 data/
 LLM-Engineers-Handbook.pdf
+Data Engineering.txt
+
+# Claude / scratch
+.claude/
+CLAUDE_CONTEXT.md
+PROGRESS_2.md
+SKILL.md
